@@ -1,12 +1,12 @@
 {
   "student": {
-    "name": "Your Name",
+    "name": "Sakshee Suman",
     "bio": "Google Summer of Code Contributor",
-    "avatar": "https://github.com/YOUR-USERNAME.png",
-    "github": "https://github.com/YOUR-USERNAME",
-    "email": "your.email@example.com",
-    "blog": "https://yourblog.dev",
-    "linkedin": "https://linkedin.com/in/YOUR-PROFILE"
+    "avatar": "https://github.com/e-esakman.png",
+    "github": "https://github.com/e-esakman",
+    "email": "sumansakshee36@gmail.com",
+    "blog": "https://esakman.github.io/",
+    "linkedin": "https://linkedin.com/in/sakshee-suman04/"
   },
   "project": {
     "title": "Your GSoC Project Title",
@@ -23,11 +23,13 @@
       "your-project-channel"
     ]
   },
-  "mentor": {
+  "mentors": [
+  {
     "name": "Mentor Name",
     "email": "mentor@example.com",
     "avatar": "https://github.com/MENTOR-USERNAME.png",
     "role": "Project Mentor",
     "github": "https://github.com/MENTOR-USERNAME"
   }
+]
 }
